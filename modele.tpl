@@ -1,5 +1,5 @@
 
-# modele fichier template modele.tpl
+
 
 Série {{ name | upper }}
 
